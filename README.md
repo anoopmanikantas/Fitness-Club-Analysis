@@ -1,8 +1,8 @@
 # Fitness Club Analysis
-Uwindsor - COMP8547 - Project
+## Uwindsor - COMP8547 - Project
 
 
-Group members:
+### Group members:
 * Anoop Manikanta Subramani
 * Anup Suguru Veeraiah
 * Bindu Lokesh
